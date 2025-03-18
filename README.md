@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm John Doe</h1>
+<h1 align="center">👋 Hi, I'm Michael Noja Jr.</h1>
 <h3 align="center">💻 Full-Stack Developer | 🚀 Building scalable web applications</h3>
 
 ---
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **MERN Stack** projects.
 - 🌱 I’m learning **DevOps and CI/CD pipelines**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **JavaScript, React, Node.js, and APIs**.
+- 💬 Ask me about **PHP, Angular, TypeScript, C++ and APIs**.
 - ⚡ Fun fact: I love **solving coding challenges** and playing chess ♔.
 
 ---
@@ -18,19 +18,19 @@
 <!-- Frontend -->
 #### 🌐 Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" alt="frontend-icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="frontend-icons" />
 </div>
 
 <!-- Backend -->
 #### ⚙️ Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="backend-icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="backend-icons" />
 </div>
 
 <!-- Tools -->
 #### 🛠️ Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" alt="tools-icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="tools-icons" />
 </div>
 
 ---
@@ -38,7 +38,7 @@
 ### 🌟 **Projects**
 - 🔥 [**Project One**](https://github.com/your-username/project-one)  
   A **React & Node.js** app for task management with authentication and MongoDB.  
-  🚀 **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS.
+  🚀 **Tech Stack:** Angular, Supabase, Tailwind CSS.
 
 - 🚀 [**Project Two**](https://github.com/your-username/project-two)  
   A **Full-Stack E-commerce website** with payment integration.  
