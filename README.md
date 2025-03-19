@@ -1,12 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Michael Noja Jr.</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Building scalable web applications</h3>
+<h3 align="center">💻 Full-Stack & IoT Developer | 🚀 Building scalable web apps & smart systems</h3>
 
 ---
 
 ### 🚀 **About Me**
-- 🔭 I’m currently working on **MERN Stack** projects.
-- 🌱 I’m learning **DevOps and CI/CD pipelines**.
+- 🔭 Currently working on **Full-Stack web apps** and **IoT projects**.  
+- 🌱 Learning **Cloud services for IoT and DevOps**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **PHP, Angular, TypeScript, C++ and APIs**.
 - ⚡ Fun fact: I love **solving coding challenges** and playing chess ♔.
@@ -18,13 +18,22 @@
 <!-- Frontend -->
 #### 🌐 Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="frontend-icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,tailwind,bootstrap" alt="frontend-icons" />
 </div>
 
 <!-- Backend -->
 #### ⚙️ Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="backend-icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" alt="backend-icons" />
+</div>
+
+<!-- IoT -->
+#### 🔌 IoT & Embedded
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,c++" alt="iot-icons" />
+  <img src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/-ESP32-003366?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/-AWS IoT-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS IoT" />
 </div>
 
 <!-- Tools -->
@@ -36,32 +45,16 @@
 ---
 
 ### 🌟 **Projects**
-- 🔥 [**Project One**](https://github.com/your-username/project-one)  
-  A **React & Node.js** app for task management with authentication and MongoDB.  
-  🚀 **Tech Stack:** Angular, Supabase, Tailwind CSS.
+- 🔥 [**Project One**](https://github.com/RFQ-Team-Sean/Supply-Management-System)  
+  💻 **Tech Stack:** HTML, CSS, Angular, Supabase, Tailwind CSS.
 
-- 🚀 [**Project Two**](https://github.com/your-username/project-two)  
-  A **Full-Stack E-commerce website** with payment integration.  
-  💻 **Tech Stack:** Next.js, PostgreSQL, Prisma ORM, Stripe API.
+- 🔥 [**Project Two**](https://github.com/bossmiks/PNOC)  
+  💻 **Tech Stack:** HTML, CSS, Tailwind CSS, Supabase.
 
 ---
 
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</div>
+### 📫 **Contact Me**
+- 💼 [LinkedIn](https://www.linkedin.com/in/michael-ara-jr-317819291/)  
+- 📧 aramichael19@gmail.com 
 
----
 
-### 🤝 **Connect with Me**
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-### ⚡ **Fun Fact**
-⭐ *"There are 10 types of people in the world: Those who understand binary, and those who don't."* 😄
