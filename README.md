@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Michael Noja Jr.</h1>
+<h1 align="center">👋 Hi, I'm Michael Noja Ara Jr.</h1>
 <h3 align="center">💻 Full-Stack & IoT Developer | 🚀 Building scalable web apps & smart systems</h3>
 
 ---
