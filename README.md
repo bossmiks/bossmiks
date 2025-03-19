@@ -31,7 +31,7 @@
 <!-- Backend -->
 #### ⚙️ Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" alt="backend-icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,supabase" alt="backend-icons" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
 
 </div>
