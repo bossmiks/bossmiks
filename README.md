@@ -36,7 +36,10 @@
 <!-- IoT -->
 #### 🔌 IoT & Embedded
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,c" alt="iot-icons" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,python,c" alt="iot-icons" />
+  <img src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/-ESP32-003366?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/-AWS IoT-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS IoT" />
 </div>
 
 <!-- Tools -->
