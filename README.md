@@ -18,7 +18,7 @@
 <!-- UI/UX -->
 #### 🎨 UI/UX Design
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva,wordpress" alt="uiux-icons" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,Canva,wordpress" alt="uiux-icons" />
 </div>
 
 <!-- Frontend -->
