@@ -15,6 +15,14 @@
 
 ### 🛠️ **Tech Stack**
 
+<!-- UI/UX -->
+#### 🎨 UI/UX Design
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,figma" alt="uiux-icons" />
+  <img src="https://img.shields.io/badge/-Framer-000000?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</div>
+
 <!-- Frontend -->
 #### 🌐 Frontend
 <div align="left">
