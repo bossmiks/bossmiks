@@ -19,6 +19,7 @@
 #### 🎨 UI/UX Design
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,wordpress" alt="uiux-icons" />
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </div>
 
 <!-- Frontend -->
@@ -31,12 +32,15 @@
 #### ⚙️ Backend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" alt="backend-icons" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+
 </div>
 
 <!-- IoT -->
 #### 🔌 IoT & Embedded
 <div align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,c" alt="iot-icons" />
+    <img src="https://img.shields.io/badge/-ESP32-003366?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
 </div>
 
 <!-- Tools -->
