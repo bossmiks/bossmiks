@@ -18,7 +18,7 @@
 <!-- UI/UX -->
 #### 🎨 UI/UX Design
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva, wordpress" alt="uiux-icons" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva,wordpress" alt="uiux-icons" />
 </div>
 
 <!-- Frontend -->
@@ -48,16 +48,16 @@
 ---
 
 ### 🌟 **Projects**
-- 🔥 [**Project One**](https://github.com/RFQ-Team-Sean/Supply-Management-System)  
+- 🔥 [**Supply Management System**](https://github.com/RFQ-Team-Sean/Supply-Management-System)  
   💻 **Tech Stack:** HTML, CSS, Angular, Supabase, Tailwind CSS.
 
-- 🔥 [**Project Two**](https://github.com/bossmiks/PNOC)  
+- 🔥 [**PNOC**](https://github.com/bossmiks/PNOC)  
   💻 **Tech Stack:** HTML, CSS, Tailwind CSS, Supabase.
 
 ---
 
 ### 📫 **Contact Me**
-- 💼 [LinkedIn](https://www.linkedin.com/in/michael-ara-jr-317819291/)  
+- 💼 [Michae-ara-jr](https://www.linkedin.com/in/michael-ara-jr-317819291/)  
 - 📧 aramichael19@gmail.com 
 
 
