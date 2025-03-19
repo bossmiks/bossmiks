@@ -8,7 +8,7 @@
 - 🔭 Currently working on **Full-Stack web apps** and **IoT projects**.  
 - 🌱 Learning **Cloud services for IoT and DevOps**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **PHP, Angular, TypeScript, C++ and APIs**.
+- 💬 Ask me about **ANYTHING**.
 - ⚡ Fun fact: I love **solving coding challenges** and playing chess ♔.
 
 ---
