@@ -18,7 +18,7 @@
 <!-- UI/UX -->
 #### 🎨 UI/UX Design
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,wordpress" alt="uiux-icons" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" alt="uiux-icons" />
     <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </div>
 
